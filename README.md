@@ -1,14 +1,4 @@
-# Deep Learning for Perception — Assignment 2: Section B
-
-**Student Name:** Ajmal Razaq  
-**Roll Number:** 23F-0524  
-**Degree:** BS Computer Science, FAST-NUCES Islamabad  
-**Course:** CS-4063 Deep Learning  
-**Assignment:** DL_ASS02 (Section B)  
-**Repository:** https://github.com/theajmalrazaq/dlpass  
-
----
-
+# Deep Learning for Perception — Assignment 2
 ## Overview
 
 This repository hosts the official submission for Assignment 2, Section B: **Robust Image Classification under Severe Distribution Shift with Limited Training Data**.
