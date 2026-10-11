@@ -1,6 +1,6 @@
 # Deep Learning for Perception — Assignment 2: Section B
 
-**Student Name:** Muhammad Ajmal Razaq  
+**Student Name:** Ajmal Razaq  
 **Roll Number:** 23F-0524  
 **Degree:** BS Computer Science, FAST-NUCES Islamabad  
 **Course:** CS-4063 Deep Learning  
