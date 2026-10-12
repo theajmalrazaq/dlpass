@@ -126,4 +126,3 @@ Every configuration was trained strictly on 400 clean CIFAR-10 images across thr
 6. **Test-Time Augmentation (Part F):**  
    Ensembling predictions across original and horizontally flipped test samples yields $12.26\%$ accuracy at a $2.02\times$ latency penalty ($28.12\text{s}$ vs $13.90\text{s}$). Standard single-pass inference remains optimal for real-time edge deployments.
 
-# dlpass
